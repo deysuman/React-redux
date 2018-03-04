@@ -5,7 +5,7 @@ A simple boilerplate code for setting up the react with redux project on your lo
 clone the repo:-
 
 ```
-git clone https://github.com/vinitraj10/React-Redux-Bolierplate
+git clone https://github.com/deysuman/React-redux.git
 ```
 
 Install dependencies
